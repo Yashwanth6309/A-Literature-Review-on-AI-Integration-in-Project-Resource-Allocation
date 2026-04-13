@@ -1,7 +1,6 @@
 # A-# AI Integration in Project Resource Allocation
 ### A Systematic Literature Review
 
-> **Team 1** | Spring 2025 | Prof. Charles Weber  
 > Authors: Dharipelli Yashwanth · Hammigi Bhaktavatsala Pruthvi · Patil Neelima · Prem Kumar Annie Catherine · Sonawane Vijay Aditi
 
 ---
@@ -155,31 +154,6 @@ AI-driven approaches address these gaps through data-driven, adaptive, and predi
 
 **Scope:** 45+ peer-reviewed journal articles and conference proceedings, 2015–2024
 
----
-
-## Repository Structure
-
-```
-├── README.md                          # Project overview (this file)
-├── paper/
-│   └── AI_Resource_Allocation_Review.pdf   # Full literature review document
-├── references/
-│   └── references.bib                 # Bibliography in BibTeX format
-└── summary/
-    └── findings_summary.md            # Condensed findings and gap analysis
-```
-
----
-
-## Citation
-
-If referencing this work:
-
-```
-Yashwanth D., Pruthvi H.B., Neelima P., Annie Catherine P.K., Aditi S.V. (2025).
-A Literature Review on AI Integration in Project Resource Allocation.
-Spring 2025. Professor Charles Weber.
-```
 
 ---
 
